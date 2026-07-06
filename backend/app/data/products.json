@@ -1,0 +1,227 @@
+[
+  {
+    "id": "ebook-001",
+    "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "price": 29.99,
+    "shortDescription": "Learn to write clean, maintainable code with practical principles from Robert C. Martin.",
+    "thumbnailUrl": "https://picsum.photos/seed/ebook001/400/300",
+    "longDescription": "This book is a must-read for any developer who wants to write better code. Robert C. Martin shares decades of experience in software craftsmanship, covering naming conventions, functions, comments, formatting, error handling, and much more. Every example is in Java, but the principles apply to any language. By the end, you'll have a clear framework for making code decisions that lead to systems that are easier to maintain, extend, and understand.",
+    "category": "ebook",
+    "reviews": [
+      {
+        "id": "r-001",
+        "author": "David Cohen",
+        "rating": 5,
+        "comment": "Every developer should read this. Changed the way I write code completely.",
+        "createdAt": "2024-03-10"
+      },
+      {
+        "id": "r-002",
+        "author": "Sarah Levi",
+        "rating": 4,
+        "comment": "Very insightful, some examples feel dated but the principles are timeless.",
+        "createdAt": "2024-05-22"
+      }
+    ]
+  },
+  {
+    "id": "ebook-002",
+    "name": "The Pragmatic Programmer",
+    "price": 34.99,
+    "shortDescription": "Your journey to mastery — a classic guide to becoming a better software developer.",
+    "thumbnailUrl": "https://picsum.photos/seed/ebook002/400/300",
+    "longDescription": "The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process: taking a requirement and producing working, maintainable code. The authors cover topics ranging from personal responsibility and career development to architectural techniques that keep your code flexible and easy to adapt and reuse.",
+    "category": "ebook",
+    "reviews": [
+      {
+        "id": "r-003",
+        "author": "Omer Shapira",
+        "rating": 5,
+        "comment": "A timeless classic. Read it every year and still find new wisdom.",
+        "createdAt": "2024-01-18"
+      },
+      {
+        "id": "r-004",
+        "author": "Noa Ben-David",
+        "rating": 5,
+        "comment": "Incredibly practical advice. Not just theory — real strategies you can apply today.",
+        "createdAt": "2024-06-05"
+      },
+      {
+        "id": "r-005",
+        "author": "Tal Mizrahi",
+        "rating": 4,
+        "comment": "Great book, slightly outdated in a few chapters but 90% still very relevant.",
+        "createdAt": "2024-07-30"
+      }
+    ]
+  },
+  {
+    "id": "ebook-003",
+    "name": "Designing Data-Intensive Applications",
+    "price": 44.99,
+    "shortDescription": "The definitive guide to building reliable, scalable, and maintainable systems.",
+    "thumbnailUrl": "https://picsum.photos/seed/ebook003/400/300",
+    "longDescription": "Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational and NoSQL databases, stream or batch processors, and message brokers. This book examines the pros and cons of various technologies for processing and storing data.",
+    "category": "ebook",
+    "reviews": [
+      {
+        "id": "r-006",
+        "author": "Itay Goldstein",
+        "rating": 5,
+        "comment": "The best technical book I have ever read. Dense but worth every page.",
+        "createdAt": "2024-02-14"
+      }
+    ]
+  },
+  {
+    "id": "software-001",
+    "name": "CodeFlow Pro — Lifetime License",
+    "price": 99.00,
+    "shortDescription": "A powerful code review and collaboration tool for modern engineering teams.",
+    "thumbnailUrl": "https://picsum.photos/seed/soft001/400/300",
+    "longDescription": "CodeFlow Pro is a desktop application that streamlines your code review process with AI-assisted suggestions, inline comments, and team analytics. It integrates with GitHub, GitLab, and Bitbucket out of the box. The lifetime license gives you all current features plus 3 years of free updates. Supports Windows, macOS, and Linux.",
+    "category": "software",
+    "reviews": [
+      {
+        "id": "r-007",
+        "author": "Roni Katz",
+        "rating": 4,
+        "comment": "Great tool, saved our team hours every sprint. The AI suggestions are surprisingly good.",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "id": "r-008",
+        "author": "Michal Stern",
+        "rating": 3,
+        "comment": "Solid product but the UI feels a bit clunky. Core features work well though.",
+        "createdAt": "2024-05-17"
+      }
+    ]
+  },
+  {
+    "id": "software-002",
+    "name": "DBVisualizer Ultimate",
+    "price": 149.00,
+    "shortDescription": "The ultimate database management and visualization tool supporting 30+ databases.",
+    "thumbnailUrl": "https://picsum.photos/seed/soft002/400/300",
+    "longDescription": "DBVisualizer Ultimate gives developers and DBAs a single tool to connect to any database — PostgreSQL, MySQL, SQLite, Oracle, MongoDB, and more. Features include a visual query builder, ER diagram generation, data export/import in multiple formats, and an intelligent SQL editor with autocomplete. The Ultimate license covers commercial use and includes priority support.",
+    "category": "software",
+    "reviews": [
+      {
+        "id": "r-009",
+        "author": "Yossi Peretz",
+        "rating": 5,
+        "comment": "Replaced 3 different tools with this one. Worth every penny.",
+        "createdAt": "2024-03-28"
+      },
+      {
+        "id": "r-010",
+        "author": "Hila Cohen",
+        "rating": 4,
+        "comment": "Very powerful. The ER diagram feature alone justifies the price.",
+        "createdAt": "2024-06-11"
+      }
+    ]
+  },
+  {
+    "id": "software-003",
+    "name": "MockAPI Studio",
+    "price": 49.00,
+    "shortDescription": "Design, mock, and test REST APIs visually — no backend needed.",
+    "thumbnailUrl": "https://picsum.photos/seed/soft003/400/300",
+    "longDescription": "MockAPI Studio lets frontend developers build and test against realistic API mocks without waiting for backend teams. Define endpoints, response schemas, latency simulation, and error scenarios. Export mocks as OpenAPI specs or share them via a live URL. Perfect for parallel development workflows and demos.",
+    "category": "software",
+    "reviews": [
+      {
+        "id": "r-011",
+        "author": "Gal Avraham",
+        "rating": 5,
+        "comment": "A lifesaver for frontend-first development. Unblocked our whole team.",
+        "createdAt": "2024-07-03"
+      }
+    ]
+  },
+  {
+    "id": "course-001",
+    "name": "Full-Stack React & Node.js Bootcamp",
+    "price": 89.99,
+    "shortDescription": "Build production-ready full-stack apps from scratch with React 18 and Node.js.",
+    "thumbnailUrl": "https://picsum.photos/seed/course001/400/300",
+    "longDescription": "This comprehensive bootcamp takes you from zero to deploying a full production application. You will learn React 18 with hooks and Context API, Node.js with Express, REST API design, JWT authentication, MongoDB with Mongoose, and deployment on AWS. The course includes 12 real-world projects and over 40 hours of video content with downloadable source code for every section.",
+    "category": "course",
+    "reviews": [
+      {
+        "id": "r-012",
+        "author": "Shira Levy",
+        "rating": 5,
+        "comment": "Best investment I made in my career. Got a job offer 2 months after finishing.",
+        "createdAt": "2024-02-20"
+      },
+      {
+        "id": "r-013",
+        "author": "Amir Dayan",
+        "rating": 4,
+        "comment": "Very well structured. The projects are realistic and the instructor explains everything clearly.",
+        "createdAt": "2024-04-15"
+      },
+      {
+        "id": "r-014",
+        "author": "Lihi Nir",
+        "rating": 5,
+        "comment": "Loved every section. The deployment part alone was worth the price.",
+        "createdAt": "2024-08-01"
+      }
+    ]
+  },
+  {
+    "id": "course-002",
+    "name": "Python for Data Science & Machine Learning",
+    "price": 74.99,
+    "shortDescription": "Master Python, Pandas, NumPy, Matplotlib, and Scikit-learn with hands-on projects.",
+    "thumbnailUrl": "https://picsum.photos/seed/course002/400/300",
+    "longDescription": "This course covers the complete data science workflow: data collection, cleaning, exploration, visualization, and machine learning. You will work with real datasets throughout, building projects in finance, healthcare, and e-commerce. Topics include Pandas DataFrames, NumPy arrays, Matplotlib and Seaborn visualizations, and Scikit-learn models including regression, classification, and clustering.",
+    "category": "course",
+    "reviews": [
+      {
+        "id": "r-015",
+        "author": "Rotem Klein",
+        "rating": 5,
+        "comment": "Perfect balance of theory and practice. The real-world datasets make it much more engaging.",
+        "createdAt": "2024-01-30"
+      },
+      {
+        "id": "r-016",
+        "author": "Nir Friedman",
+        "rating": 4,
+        "comment": "Solid content. ML section could go deeper but great for beginners.",
+        "createdAt": "2024-05-08"
+      }
+    ]
+  },
+  {
+    "id": "course-003",
+    "name": "System Design Interview Masterclass",
+    "price": 59.99,
+    "shortDescription": "Crack senior-level system design interviews with proven frameworks and real examples.",
+    "thumbnailUrl": "https://picsum.photos/seed/course003/400/300",
+    "longDescription": "This course prepares you for system design interviews at top tech companies. You will learn how to design scalable systems like URL shorteners, social feeds, ride-sharing apps, and video streaming platforms. Topics include load balancing, caching strategies, database sharding, CAP theorem, message queues, and microservices patterns. Each design is walked through step-by-step with diagrams and tradeoff discussions.",
+    "category": "course",
+    "reviews": [
+      {
+        "id": "r-017",
+        "author": "Yael Hazan",
+        "rating": 5,
+        "comment": "Passed my Google interview after this course. The framework they teach is exactly what interviewers want.",
+        "createdAt": "2024-03-05"
+      },
+      {
+        "id": "r-018",
+        "author": "Barak Segal",
+        "rating": 5,
+        "comment": "Clear, structured, and dense with real examples. No fluff at all.",
+        "createdAt": "2024-06-22"
+      }
+    ]
+  }
+]
