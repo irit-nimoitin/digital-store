@@ -11,7 +11,7 @@ export default function NotFoundPage() {
         The page you're looking for doesn't exist or has been moved.
       </p>
       <Link to="/">
-        <Button label="Back to Products" icon="pi pi-arrow-left" className="p-button-indigo" />
+        <Button label="Back to Products" icon="pi pi-arrow-left" className="bg-indigo-600 border-indigo-600" />
       </Link>
     </div>
   );
