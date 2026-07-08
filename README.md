@@ -2,6 +2,12 @@
 
 A full-stack mini e-commerce platform for digital products — e-books, software licenses, and online courses.
 
+## Live Demo
+
+**Frontend:** https://digital-store-app.vercel.app
+
+> Note: The live demo shows the frontend only. Products will not load because the backend is not deployed. To see the full working application, run the complete stack locally using Docker Compose (see Getting Started below).
+
 ## Tech Stack
 
 | Layer | Technology |

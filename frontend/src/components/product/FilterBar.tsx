@@ -64,6 +64,7 @@ export default function FilterBar({ onFiltersChange }: Props) {
         <Dropdown
           value={category}
           options={CATEGORY_OPTIONS}
+          optionValue="value"
           onChange={(e) => setCategory(e.value as ProductCategory)}
           className="w-full sm:w-52"
           aria-label="Filter by category"
@@ -72,6 +73,7 @@ export default function FilterBar({ onFiltersChange }: Props) {
         <Dropdown
           value={sort}
           options={SORT_OPTIONS}
+          optionValue="value"
           onChange={(e) => setSort(e.value as string)}
           className="w-full sm:w-56"
           aria-label="Sort products"
